@@ -1,5 +1,5 @@
-let contador = 1;
-while (contador <= 10) {
+let contador = "ai";
+while (contador <= "ai") {
     console.log(`Contagem: ${contador}`);
     contador++;
 }
