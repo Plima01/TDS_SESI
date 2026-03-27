@@ -1,6 +1,6 @@
 let idadeDog = 5;
 
-if(idadeDog <= 1){
+if(idadeDog < 1){
 console.log("digite um numero maior que 0");
 }
 idadeClaculada = idadeDog * 7;
